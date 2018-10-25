@@ -1,0 +1,7 @@
+C:\Users\Diego\Desktop\TEC\POO\Programas A-D 18\Información_Empleado\Información_Empleado\bin\Debug\Información_Empleado.exe.config
+C:\Users\Diego\Desktop\TEC\POO\Programas A-D 18\Información_Empleado\Información_Empleado\bin\Debug\Información_Empleado.exe
+C:\Users\Diego\Desktop\TEC\POO\Programas A-D 18\Información_Empleado\Información_Empleado\bin\Debug\Información_Empleado.pdb
+C:\Users\Diego\Desktop\TEC\POO\Programas A-D 18\Información_Empleado\Información_Empleado\obj\Debug\Información_Empleado.csprojAssemblyReference.cache
+C:\Users\Diego\Desktop\TEC\POO\Programas A-D 18\Información_Empleado\Información_Empleado\obj\Debug\Información_Empleado.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\TEC\POO\Programas A-D 18\Información_Empleado\Información_Empleado\obj\Debug\Información_Empleado.exe
+C:\Users\Diego\Desktop\TEC\POO\Programas A-D 18\Información_Empleado\Información_Empleado\obj\Debug\Información_Empleado.pdb
